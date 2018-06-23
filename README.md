@@ -132,6 +132,14 @@ sudo nano /etc/nginx/nginx.conf
     }
 ```
 
+#### change http block
+
+```bash
+    http {
+        server_tokens off;
+    }
+```
+
 sudo systemctl restart nginx
 
 
@@ -166,4 +174,7 @@ Ctype PHP Extension
 
 ## selinux
 
+
 ## SSH
+
+ssh-keygen
