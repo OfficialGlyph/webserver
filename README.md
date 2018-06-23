@@ -99,6 +99,13 @@ user = nginx
 
 group = nginx
 
+listen.owner = nginx
+
+listen.group = nginx
+
+listen.mode = 0660
+
+
 sudo systemctl start php-fpm
 
 sudo systemctl enable php-fpm
