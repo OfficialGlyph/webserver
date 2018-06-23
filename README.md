@@ -140,11 +140,18 @@ sudo nano /usr/share/nginx/html/info.php
 
 
 ## to be continued:
+https://github.com/carlbennett/nginx-conf
+
 https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-centos-7
 
 https://laravel.com/docs/5.5/installation
 
 https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx
+
+https://www.owasp.org/index.php/PHP_Configuration_Cheat_Sheet
+
+fastcgi_hide_header X-Powered-By;
+
 
 
 sudo yum search php | egrep 'openssl|mbstring|tokenzier|xml|ctype'
@@ -160,3 +167,5 @@ Ctype PHP Extension
 ## file permissions
 
 ## selinux
+
+
