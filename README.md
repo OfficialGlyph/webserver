@@ -142,8 +142,6 @@ sudo nano /usr/share/nginx/html/info.php
 ## to be continued:
 https://github.com/carlbennett/nginx-conf
 
-https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-centos-7
-
 https://laravel.com/docs/5.5/installation
 
 https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx
